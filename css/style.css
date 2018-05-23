@@ -1,3 +1,30 @@
 .navbar-brand {
-  height: 50px;
+  /* height: 50px; */
+  width: 50px;
+}
+
+.footer-top {
+  background-color: #e7e7e7;
+}
+
+footer{
+  color: #e7e7e7;
+  background-color: black;
+}
+
+.text-uppercase{
+  margin-top: 5%;
+  font-size: 100%;
+}
+
+.social-media>a>i{
+  /* width: 30%;
+  height: 30%; */
+  color: red;
+  font-size: 300%;
+  margin: 1% 2%;
+}
+
+.get-connected {
+  color: black;
 }

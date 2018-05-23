@@ -28,3 +28,16 @@ footer{
 .get-connected {
   color: black;
 }
+
+/* ===== ABOUT PAGE ===== */
+.about-section{
+  margin-bottom: 3%;
+}
+
+.press-row{
+  margin-bottom: 8%;
+}
+
+.some-content{
+  /* background-color: green; */
+}

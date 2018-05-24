@@ -1,30 +1,30 @@
-#Sparta Boostrap Homework
+# Sparta Boostrap Homework
 
-###Task
+### Task
 
 1. Create a uniform navbar and and footer for each page to keep the pages consistent.
 
 2. Use bootstrap to build a professional website
 
-###Subject of site
+### Subject of site
 
 Website modelled after Tesla
 
-###Link to the Github URL
+### Link to the Github URL
 
 *https://github.com/kenl94/sparta-custom-bootstrap*
 
-###How to Download
+### How to Download
 
 You would git clone the project with a SSH Key or as a ZIP
 
-###Challenges
+### Challenges
 
 We had an issue with the SVG logo in a navbar
 
 We also had to solve a styling issue in the index page, where the mobile view would resolve with the second paragraph appearing above the second image instead of below it. 
 
-###Snippets of our code
+### Snippets of our code
 
 ```
   <!-- Jumbotron Row Div -->
@@ -38,6 +38,6 @@ We also had to solve a styling issue in the index page, where the mobile view wo
    </div>
 ```
 
-###Preview of the website
+### Preview of the website
     
 ![JumboTron Image](https://i.imgur.com/I0tVSiw.jpg)

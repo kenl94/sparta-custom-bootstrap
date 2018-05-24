@@ -30,17 +30,57 @@ footer{
   color: black;
 }
 
+/* ===== ABOUT PAGE ===== */
+.about-section {
+  margin-bottom: 3%;
+}
+
+.press-row{
+  margin-bottom: 8%;
+}
+
+.some-content{
+  /* background-color: green; */
+}
+/* Index Page */
+/* Jumbotron Styling */
+.backgroundindeximg{
+  margin: 0px;
+}
+
+.jumbotron .jumbotext{
+  color: white;
+  padding-left: 0%;
+
+}
+
+.jumbotron {
+  background-image: url(../image/2014_vorsteiner_tesla_model_s_p85-HD.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20%;
+  background-position: center;
+
+}
+
+
+/* Article Styling */
+.articleindex{
+  margin: 5%
+}
+
 /* Contact Page */
+
 .nestedcon {
   padding: 0px;
 }
 
 .officecon {
-  margin-top: 20px;
+  margin-top: 10%;
 }
 
 .officepiccon {
-  margin-top: 10px;
+  margin-top: 10%;
 }
 
 .officepiccon p{
